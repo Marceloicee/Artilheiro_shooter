@@ -1,0 +1,1 @@
+Jogo de nave em HTML, CSS e JavaScript. Abra o arquivo index.html em um navegador para jogar.\n
